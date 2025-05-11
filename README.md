@@ -74,7 +74,7 @@ Lie-Detector-with-ARDUINO-and-ML/
 3. Run the data collection and ML training notebooks located in ML_Model/.
 
 
-🧠 Machine Learning Models
+##🧠 Machine Learning Models
 Several classifiers were tested, including:
 
 Decision Tree
